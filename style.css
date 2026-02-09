@@ -1,1 +1,9 @@
 @charset "utf-8";
+.conteiner{
+    background-color: blueviolet;
+}
+.item{
+    background-color: azure;
+    border: 1px solid black;
+    color: black;
+}
